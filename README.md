@@ -1,6 +1,6 @@
 # Olá, Mundo!
-Primeiro repositório do curso de GIT e GitHub
+Primeiro repositório do **curso de GIT e GitHub**
 
-Repositório criado durante aula Gustavo Guanabara.
+Repositório criado durante aula *Gustavo Guanabara*.
 
 Esta linha adicionei diretamente no site.
